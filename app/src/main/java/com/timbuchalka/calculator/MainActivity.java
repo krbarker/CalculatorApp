@@ -135,6 +135,10 @@ public class MainActivity extends AppCompatActivity {
         displayOperation.setText(pendingOperation);
     }
 
+    public String kenMethod() {
+
+    }
+
     private void performOperation(Double value, String operation) {
         if (null == operand1) {
             operand1 = value;
