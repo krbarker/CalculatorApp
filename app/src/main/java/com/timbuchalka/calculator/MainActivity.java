@@ -175,6 +175,9 @@ public class MainActivity extends AppCompatActivity {
     public String returnName() {
         return "Ken was here";
     }
+    public String myTest() {
+        return "I was here";
+    }
 }
 
 // Test comment to test pulls
